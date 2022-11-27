@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        // 1
+        console.log(num);   // 单独有它会报错
+        // 2
+        console.log(num);   // undefined
+        var num = 10;
+        // 3
+        fn3();              // 正常
+
+        function fn3() {
+            console.log(3);
+        }
+        // 4
+        fn4();              // 报错
+
+        var fn4 = function() {
+            console.log(4);
+        }
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

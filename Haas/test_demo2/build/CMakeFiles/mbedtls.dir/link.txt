@@ -1,0 +1,2 @@
+F:\first\IoT\minw64\mingw64\bin\ar.exe qc libmbedtls.a CMakeFiles/mbedtls.dir/debug.obj CMakeFiles/mbedtls.dir/net_sockets.obj CMakeFiles/mbedtls.dir/ssl_cache.obj CMakeFiles/mbedtls.dir/ssl_ciphersuites.obj CMakeFiles/mbedtls.dir/ssl_cli.obj CMakeFiles/mbedtls.dir/ssl_cookie.obj CMakeFiles/mbedtls.dir/ssl_srv.obj CMakeFiles/mbedtls.dir/ssl_ticket.obj CMakeFiles/mbedtls.dir/ssl_tls.obj
+F:\first\IoT\minw64\mingw64\bin\ranlib.exe libmbedtls.a

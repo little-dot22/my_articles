@@ -1,0 +1,84 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-793fa05795537557940d.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lib-Debug-f31fda37ff87df3b2d58.json",
+					"name" : "lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mbedcrypto::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mbedcrypto-Debug-da7625d47925d9968b2d.json",
+					"name" : "mbedcrypto",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mbedtls::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mbedtls-Debug-1e2cfa7f33d2f8d3117d.json",
+					"name" : "mbedtls",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mbedx509::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mbedx509-Debug-60105e1fba23e1b587d4.json",
+					"name" : "mbedx509",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/VSCode/My_Articles/Haas/test_demo2/build",
+		"source" : "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

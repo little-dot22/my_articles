@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        a {
+            /* 转换为块元素 */
+            display: block;
+            height: 50px;
+            background-color: pink;
+        }
+
+        div {
+            /* 转换为行内元素 */
+            display: inline;
+            background-color: red;
+            height: 100px;
+        }
+        span {
+            /* 转换为行内块元素 */
+            display: inline-block;
+            background-color: green;
+            height: 100px;
+        }
+    </style>
+</head>
+
+<body>
+    <a href="https:www.baidu.com">百度</a>
+    <a href="https:www.baidu.com">百度</a>
+    <div>我原本是块元素</div>
+    <div>我原本是块元素</div>
+    <span>我要从行内元素转换为行内块元素</span>
+    <span>我要从行内元素转换为行内块元素</span>
+</body>
+
+</html>

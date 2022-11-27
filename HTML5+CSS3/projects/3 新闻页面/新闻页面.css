@@ -1,0 +1,34 @@
+body {
+    font: 400 16px/1.8 "Microsoft YaHei";
+}
+.center {
+    text-align: center;
+}
+.smaller {
+    font-size: smaller;
+}
+h1 {
+    font-weight: 400;
+}
+.grey {
+    color: #666;
+}
+.n {
+    text-decoration: none;
+    color: black;
+}
+.left {
+    text-align: left;
+}
+h4 {
+    text-align: left;
+}
+.right {
+    text-align: right;
+}
+p {
+    text-indent: 2em;
+}
+.pic {
+    text-align: center;
+}

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>表格</title>
+    <style>
+        table,
+        td,
+        th {
+            border: 1px solid black;
+            /* border-collapse: collapse; */
+        }
+        table {
+            width: 500px;
+            height: 100px;
+        }
+        td {
+            padding-left: 5px;
+        }
+        div {
+            width: 200px;
+            height: 200px;
+            background-color: pink;
+
+        }
+        .one {
+            margin-bottom: 2px;
+        }
+        .two {
+            margin-top: 2px;
+        }
+        .three {
+            height: 200px;
+            width: 800px;
+            margin: 0 auto;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <table align="center" cellspacing="0">
+    <thead>
+        <tr>
+            <th colspan = "6">小说排行榜</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>排名</th>
+            <th>关键词</th>
+            <th>趋势</th>
+            <th>近日搜索</th>
+            <th>最近七日</th>
+            <th>相关链接</th>
+        </tr>
+    
+        <tr>
+            <td>1</td>
+            <td>鬼吹灯</td>
+            <td><img src="images/img2.jpg" height="20"></td>
+            <td>345</td>
+            <td>123</td>
+            <td><a href="#">贴吧</a> <a href="#">百科</a></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>盗墓笔记</td>
+            <td><img src="images/img3.jpg" height="20"></td>
+            <td>124</td>
+            <td>675432</td>
+            <td><a href="#">贴吧</a> <a href="#">百科</a></td>
+        </tr>
+    </tbody>
+    </table>
+    <div class="one">1</div>
+    <div class="two">2</div>
+    <div class="three">
+        <span>一些文字</span>
+    </div>
+</body>
+</html>

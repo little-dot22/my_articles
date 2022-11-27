@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="demo.php" method="get" name="name1">
+        <!-- text 文本框，用户可以输入任何文字 -->
+        <label for="username">用户名：</label><input type="text" name="username" value="请输入用户名" maxlength="6" id="username"><br>
+
+        <!-- password 密码，不明示 -->
+        密码：<input type="password" name="pwd"><br>
+
+        <!-- radio 单选按钮，要有相同的名字才能实现单选 -->
+        性别：
+        <label for="sex1">男</label><input type="radio" name="sex" checked="checked" id="sex1"> 
+        <label for="sex2">女</label><input type="radio" name="sex" id="sex2"><br>
+
+        <!-- checkbox 复选框，名字也要相同-->
+        爱好：吃饭<input type="checkbox" name="hobby"> 睡觉<input type="checkbox" name="hobby"> 打豆豆<input type="checkbox" name="hobby"><br>
+
+        <!-- select 下拉表单 -->
+        籍贯：
+        <select>
+            <option>帝都北京</option>
+            <option>魔都上海</option>
+            <option selected="selected">苦逼河北</option>
+        </select><br>
+
+        <!-- button 用来干别的事情 -->
+        手机号：<input type="text">
+        <input type="button" value="获取短信验证码"><br>
+
+        <!-- file 上传文件 -->
+        上传头像：<input type="file"><br>
+
+        <!-- textarea  -->
+        自我评价：
+        <textarea cols="50" rows="5">这玩意是textarea做的。</textarea><br>
+
+        <!-- submit 提交; reset 重置 -->
+        <input type="submit" value="免费注册">
+        <input type="reset" value="重新填写"><br>
+    </form>
+</body>
+</html>

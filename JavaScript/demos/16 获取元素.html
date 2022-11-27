@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- 1 -->
+
+    <div id="time">2022-11-14</div>
+    <script>
+        var timer = document.getElementById('time');
+        console.log(timer);
+        console.dir(timer)
+    </script>
+
+    <!-- 2 -->
+
+    <li>aaa0</li>
+    <li>aaa1</li>
+    <li>aaa2</li>
+    <script>
+        var lis = document.getElementsByTagName('li');
+        console.log(lis);
+        console.log(lis[0])
+        console.log(typeof lis);
+        console.log(typeof lis[0]);
+    </script>
+
+    <!-- 3 -->
+
+    <ol>
+        <li>aa</li>
+        <li>aa</li>
+        <li>aa</li>
+    </ol>
+    <script>
+        var a = document.getElementsByTagName('ol');
+        var b = a[0].getElementsByTagName('li');
+        console.log(a);
+        console.log(b);
+
+        var c = document.querySelectorAll('ol');
+        var d = c[0].getElementsByTagName('li');
+        console.log(c);
+        console.log(d);
+    </script>
+
+    <!-- 4 -->
+    <script>
+        console.log(document.body);
+        console.log(document.documentElement);
+    </script>
+</body>
+
+</html>

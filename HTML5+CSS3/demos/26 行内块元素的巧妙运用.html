@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .box a {
+        display: inline-block;
+        width: 36px;
+        height: 36px;
+        background-color: #f7f7f7;
+        border: 1px solid #777;
+        text-align: center;
+        line-height: 36px;
+        text-decoration: none;
+    }
+
+    .box .pre,
+    .box .next {
+        width: 85px;
+    }
+
+    .box .current,
+    .box .elp {
+        background-color: #fff;
+        border: none;
+    }
+
+    .box {
+        text-align: center;
+        font-size: 14px;
+    }
+</style>
+
+<body>
+    <div class="box">
+        <a href="#" class="pre">&lt;&lt;上一页</a>
+        <a href="#">1</a>
+        <a href="#" class="current">2</a>
+        <a href="#">3</a>
+        <a href="#">4</a>
+        <a href="#">5</a>
+        <a href="#" class="elp">...</a>
+        <a href="#" class="next">&gt;&gt下一页</a>
+    </div>
+</body>
+
+</html>

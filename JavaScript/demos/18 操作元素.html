@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- 1 改变元素的值 -->
+
+    <button>time</button>
+    <div>time_now</div>
+    <script>
+        var btn = document.querySelector('button')
+        var div = document.querySelector('div')
+        btn.onclick = function () {
+            div.innerText = '2022-11-15'
+        }
+    </script>
+
+    <!-- 2 改变元素的属性 -->
+
+    <button id="lcw">梁朝伟</button>
+    <button id="lyf">刘亦菲</button><br>
+    <img src="images/lcw.jpeg" alt="" title='梁朝伟' width="500px">
+
+    <script>
+        var ldh = document.getElementById('lcw');
+        var lyf = document.getElementById('lyf');
+        var img = document.querySelector('img');
+        lyf.onclick = function () {
+            img.src = 'images/lyf.jpeg';
+            img.title = '刘亦菲'
+        }
+        lcw.onclick = function () {
+            img.src = 'images/lcw.jpeg';
+            img.title = '梁朝伟'
+        }
+    </script>
+
+    
+</body>
+
+</html>

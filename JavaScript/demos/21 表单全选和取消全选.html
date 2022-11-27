@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        table {
+            border: 1px solid black;
+            text-align: center;
+            margin: 100px auto;
+        }
+
+        th {
+            background-color: skyblue;
+            border: 1px solid black;
+        }
+
+        td {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+
+<body>
+    <table cellspacing="0">
+        <thead>
+            <tr>
+                <th><input type="checkbox" name="" id="all"></th>
+                <th>商品</th>
+                <th>价格</th>
+            </tr>
+        </thead>
+        <tbody id="tb">
+            <tr>
+                <td><input type="checkbox" name="" id=""></td>
+                <td>iPhone 8</td>
+                <td>8000</td>
+            </tr>
+            <tr>
+                <td><input type="checkbox" name="" id=""></td>
+                <td>iPad Pro</td>
+                <td>5000</td>
+            </tr>
+            <tr>
+                <td><input type="checkbox" name="" id=""></td>
+                <td>iPad Air</td>
+                <td>2000</td>
+            </tr>
+            <tr>
+                <td><input type="checkbox" name="" id=""></td>
+                <td>Apple Watch</td>
+                <td>2000</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <script>
+        var all = document.getElementById('all');
+        var ipt = document.getElementById('tb').getElementsByTagName('input')
+
+        all.onclick = function () {
+            for (var i = 0; i < ipt.length; i++) {
+                ipt[i].checked = this.checked;
+            }
+        }
+
+        for (var k = 0; k < ipt.length; k++) {
+            ipt[k].onclick = function() {
+                var flag = 1;
+                for (var j = 0; j < ipt.length; j++){
+                    if (!ipt[j].checked) {
+                        flag = 0;
+                        break;
+                    }
+                }
+                all.checked = flag;
+            }
+        }
+    </script>
+</body>
+
+</html>

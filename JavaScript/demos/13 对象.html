@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        var obj = {
+            uname: 'Danny',
+            gender: 'male',
+            age: 12,
+
+            sayHi: function () {
+                console.log('Hi!');
+            }
+        }
+
+        console.log(obj.uname);
+        console.log(obj['uname']);
+        obj.sayHi();
+        // ------------------------------------------
+        function Star(uname, age, gender) {
+            this.uname = uname;
+            this.age = age;
+            this.gender = gender;
+
+            this.sing = function (song) {
+                console.log(this.uname + '正在唱《' + song + '》');
+            }
+        }
+        var ldh = new Star('刘德华', 18, '男');
+        var zxy = new Star('张学友', 18, '男');
+        var gfc = new Star('郭富城', 18, '男');
+        var lm = new Star('黎明', 18, '男');
+        ldh.sing('冰雨');
+        zxy.sing('李香兰');
+        // -------------------------------------------
+        function Hero(name, type, blood, attack){
+            this.name = name;
+            this.type = type;
+            this.blood = blood;
+            this.attack = attack;
+
+            this.battle = function(enemy) {
+                console.log(this.name+"正在对线"+enemy);
+            }
+        }
+
+        var lp = new Hero('廉颇', '力量型', 500, '近战');     
+        var hy = new Hero('后羿', '射手型', 100, '远程');
+        
+        lp.battle('亚瑟');
+        hy.battle('公孙离');
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>

@@ -1,0 +1,397 @@
+[
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\aes.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\aes.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/aes.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\aesni.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\aesni.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/aesni.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\arc4.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\arc4.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/arc4.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\aria.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\aria.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/aria.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\asn1parse.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\asn1parse.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/asn1parse.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\asn1write.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\asn1write.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/asn1write.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\base64.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\base64.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/base64.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\bignum.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\bignum.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/bignum.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\blowfish.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\blowfish.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/blowfish.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\camellia.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\camellia.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/camellia.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\ccm.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\ccm.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/ccm.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\chacha20.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\chacha20.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/chacha20.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\chachapoly.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\chachapoly.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/chachapoly.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\cipher.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\cipher.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/cipher.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\cipher_wrap.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\cipher_wrap.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/cipher_wrap.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\cmac.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\cmac.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/cmac.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\ctr_drbg.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\ctr_drbg.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/ctr_drbg.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\des.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\des.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/des.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\dhm.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\dhm.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/dhm.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\ecdh.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\ecdh.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/ecdh.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\ecdsa.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\ecdsa.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/ecdsa.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\ecjpake.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\ecjpake.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/ecjpake.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\ecp.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\ecp.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/ecp.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\ecp_curves.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\ecp_curves.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/ecp_curves.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\entropy.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\entropy.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/entropy.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\entropy_poll.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\entropy_poll.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/entropy_poll.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\error.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\error.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/error.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\gcm.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\gcm.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/gcm.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\havege.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\havege.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/havege.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\hkdf.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\hkdf.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/hkdf.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\hmac_drbg.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\hmac_drbg.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/hmac_drbg.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\md.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\md.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/md.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\md2.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\md2.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/md2.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\md4.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\md4.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/md4.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\md5.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\md5.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/md5.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\md_wrap.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\md_wrap.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/md_wrap.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\memory_buffer_alloc.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\memory_buffer_alloc.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/memory_buffer_alloc.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\nist_kw.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\nist_kw.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/nist_kw.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\oid.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\oid.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/oid.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\padlock.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\padlock.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/padlock.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\pem.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\pem.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/pem.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\pk.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\pk.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/pk.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\pk_wrap.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\pk_wrap.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/pk_wrap.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\pkcs12.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\pkcs12.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/pkcs12.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\pkcs5.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\pkcs5.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/pkcs5.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\pkparse.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\pkparse.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/pkparse.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\pkwrite.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\pkwrite.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/pkwrite.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\platform.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\platform.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/platform.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\platform_util.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\platform_util.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/platform_util.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\poly1305.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\poly1305.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/poly1305.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\ripemd160.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\ripemd160.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/ripemd160.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\rsa.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\rsa.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/rsa.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\rsa_internal.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\rsa_internal.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/rsa_internal.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\sha1.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\sha1.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/sha1.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\sha256.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\sha256.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/sha256.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\sha512.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\sha512.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/sha512.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\threading.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\threading.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/threading.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\timing.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\timing.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/timing.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\version.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\version.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/version.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\version_features.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\version_features.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/version_features.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedcrypto.dir\\xtea.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\xtea.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/xtea.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedx509.dir\\certs.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\certs.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/certs.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedx509.dir\\pkcs11.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\pkcs11.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/pkcs11.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedx509.dir\\x509.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\x509.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/x509.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedx509.dir\\x509_create.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\x509_create.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/x509_create.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedx509.dir\\x509_crl.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\x509_crl.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/x509_crl.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedx509.dir\\x509_crt.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\x509_crt.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/x509_crt.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedx509.dir\\x509_csr.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\x509_csr.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/x509_csr.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedx509.dir\\x509write_crt.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\x509write_crt.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/x509write_crt.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedx509.dir\\x509write_csr.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\x509write_csr.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/x509write_csr.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedtls.dir\\debug.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\debug.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/debug.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedtls.dir\\net_sockets.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\net_sockets.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/net_sockets.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedtls.dir\\ssl_cache.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\ssl_cache.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/ssl_cache.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedtls.dir\\ssl_ciphersuites.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\ssl_ciphersuites.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/ssl_ciphersuites.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedtls.dir\\ssl_cli.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\ssl_cli.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/ssl_cli.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedtls.dir\\ssl_cookie.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\ssl_cookie.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/ssl_cookie.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedtls.dir\\ssl_srv.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\ssl_srv.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/ssl_srv.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedtls.dir\\ssl_ticket.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\ssl_ticket.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/ssl_ticket.c"
+},
+{
+  "directory": "D:/VSCode/My_Articles/Haas/test_demo2/build",
+  "command": "F:\\first\\IoT\\minw64\\mingw64\\bin\\gcc.exe    -Wmissing-declarations -Wmissing-prototypes -g -o CMakeFiles\\mbedtls.dir\\ssl_tls.obj -c D:\\VSCode\\My_Articles\\Haas\\test_demo2\\components\\mbedtls\\library\\ssl_tls.c",
+  "file": "D:/VSCode/My_Articles/Haas/test_demo2/components/mbedtls/library/ssl_tls.c"
+}
+]

@@ -1,0 +1,10 @@
+{
+    "haasStudio.name": "test_demo2",
+    "haasStudio.hardware.board": "haas100",
+    "haasStudio.appType": "c",
+    "haasStudio.solutionName": "helloworld_demo",
+    "haasStudio.projectDir": "d:\\VSCode\\My_Articles\\Haas\\test_demo2",
+    "cmake.sourceDirectory": "${workspaceFolder}/components/mbedtls/library",
+    "haasStudio.comPort": "COM4",
+    "haasStudio.hardware.baudrate": 1500000
+}

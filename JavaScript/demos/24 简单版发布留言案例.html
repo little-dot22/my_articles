@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <textarea name="" id="" cols="30" rows="10">123</textarea>
+    <input type="button" value="发布">
+    <ul>
+
+    </ul>
+
+    <script>
+        var txa = document.querySelector('textarea');
+        var btn = document.querySelector('input');
+        var ul = document.querySelector('ul');
+
+        btn.onclick = function () {
+            if (txa.value == '') {
+                alert('写点东西吧！')
+                return false;
+            } else {
+                var li = document.createElement('li');
+                li.innerHTML = txa.value + "<a href='JavaScript:;'>删除</a>"; // 阻止链接跳转
+                ul.insertBefore(li, ul.children[0]);
+
+                // 下面这堆不能放在本函数之外，因为程序一瞬间完成，那时还没有li及a
+                var as = document.querySelectorAll('a');
+                for (var i = 0; i < as.length; i++) {
+                    as[i].onclick = function () {
+                        ul.removeChild(this.parentNode);
+                    }
+                }
+            }
+        }
+    </script>
+</body>
+
+</html>

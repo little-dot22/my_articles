@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <input type="text" name="" id="">
+    <script>
+        var search = document.querySelector('input');
+        // 用keyup，否则用keydown，s也会输入进去，因为用keydown不可能“只按一下”，up只会up一下
+        document.addEventListener('keyup', function(e) {
+            // console.log(e.keyCode);  ->  83
+            if (e.keyCode == 83) {
+                search.focus();
+            }
+        })
+    </script>
+</body>
+
+</html>
