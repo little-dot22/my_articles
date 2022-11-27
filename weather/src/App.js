@@ -1,12 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
 
-function App() {
+
+// 组件渲染
+function App () {
   return (
     <div className="App">
-      app
     </div>
   )
 }
-
-export default App;
+export default App
